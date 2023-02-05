@@ -1,4 +1,9 @@
-### Hi there 👋
+## 👋 Olá! Eu sou o Ítalo Costa
+<a href="https://github.com/itchecosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itchecosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itchecosta&layout=compact&langs_count=16&theme=dark" />
+</a>
+</a>
 
 <!--
 **itchecosta/itchecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
